@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Abhinab Rajopadhyaya<br>I am currently working as a JavaScript developer. I like JavaScript world. From building interactive UI to complex server applications, JS can shine brightly.  <br>
+# 💫 Hi, I'm Abhinab Rajopadhyaya:
+I’m a passionate full-stack developer specializing in JavaScript and TypeScript. I enjoy building dynamic and responsive user interfaces with React, Vue, and Next.js on the frontend. On the backend, I work with Node.js, NestJS, and databases like PostgreSQL and MongoDB. Always excited to learn new technologies and contribute to meaningful projects!
 
 
 ## 🌐 Socials:
